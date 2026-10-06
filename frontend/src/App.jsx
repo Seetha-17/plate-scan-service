@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_BASE_URL = '/api';
+const API_BASE_URL = 'http://plate-scan-backend-env.eba-mq8jetnn.ap-southeast-2.elasticbeanstalk.com/';
 
 export default function App() {
   // Simulate authentication profile tokens locally
